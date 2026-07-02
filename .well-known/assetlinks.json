@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.hatomameteppo4629.omoide",
+      "sha256_cert_fingerprints": [
+        "0F:29:9B:23:7C:83:8E:CE:9D:A7:E7:53:29:EB:41:B7:5E:B3:F0:04:DA:6B:26:9F:A3:F2:9E:35:5A:B2:89:88"
+      ]
+    }
+  }
+]
