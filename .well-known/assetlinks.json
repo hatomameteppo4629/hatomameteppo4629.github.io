@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "io.github.hatomameteppo4629.omoide",
       "sha256_cert_fingerprints": [
-        "0F:29:9B:23:7C:83:8E:CE:9D:A7:E7:53:29:EB:41:B7:5E:B3:F0:04:DA:6B:26:9F:A3:F2:9E:35:5A:B2:89:88"
+        "0F:29:9B:23:7C:83:8E:CE:9D:A7:E7:53:29:EB:41:B7:5E:B3:F0:04:DA:6B:26:9F:A3:F2:9E:35:5A:B2:89:88",
+        "A6:00:19:CA:86:7C:B8:AA:46:87:32:4B:17:32:58:6D:97:27:48:B4:32:E1:3B:8E:75:3C:F2:69:5F:93:AD:EA"
       ]
     }
   }
